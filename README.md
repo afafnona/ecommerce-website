@@ -32,7 +32,7 @@ A dynamic e-commerce website built as a school project using PHP, MySQL, HTML, C
 5. Run the website: http://localhost/your-folder
 
 ##  Author
-Afaf Mzourou – Student at EST Casablanca, 2nd year in Computer Engineering
+Afaf Mzaourou – Student at EST Casablanca, 2nd year in Computer Engineering
 
 ##  GitHub
 https://github.com/afafnona/ecommerce-website
